@@ -21,7 +21,7 @@
 
                 <div class="mb-3">
                     <label for="email">邮箱：</label>
-                    <input type="text" name="email" class="form-control" value="{{ old('name') }}">
+                    <input type="text" name="email" class="form-control" value="{{ old('email') }}">
                 </div>
 
                 <div class="mb-3">
